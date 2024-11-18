@@ -3,12 +3,10 @@ FitFusion is a comprehensive fitness tracker application designed to help users 
 
 Features
 ->User Authentication: Secure sign-up and login process.
-\\
 ->Workout Tracking: Log workouts, sets, reps, and weights.
-\\
-->Nutrition Checker: Search for food items and get nutritional information.\\
-->BMR Calculator: Calculate your Basal Metabolic Rate and daily caloric needs.\\
-->Community Support: Join a community of fitness enthusiasts for motivation and support.\\
+->Nutrition Checker: Search for food items and get nutritional information.
+->BMR Calculator: Calculate your Basal Metabolic Rate and daily caloric needs.
+->Community Support: Join a community of fitness enthusiasts for motivation and support.
 ->Analytics: View workout analytics and progress over time.
 
 
